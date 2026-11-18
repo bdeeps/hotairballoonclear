@@ -1,0 +1,110 @@
+{
+  "slug": "hotairballoonclear",
+  "box": 230,
+  "date": "2026-11-27",
+  "title": "HotAirBalloonClear",
+  "question": "How does a hot air balloon float?",
+  "hook": "A balloon floats because heated air is lighter than cool air. Heat the air in a cube, work out the lift budget for a real balloon, fly it with a burner and a vent, and see why it can only go where the wind goes.",
+  "thumbText": "HOW BALLOONS FLOAT",
+  "field": "physics",
+  "minutes": 14,
+  "tags": [
+    "hot air balloon",
+    "balloon",
+    "buoyancy",
+    "archimedes",
+    "ideal gas law",
+    "density",
+    "propane",
+    "physics",
+    "flight",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Hot air is lighter air",
+      "text": "Air is a crowd of molecules. Heat it and they move faster and spread out. Inside an envelope that is open at the bottom, some leave. At 20 °C a cubic metre of air weighs about 1.2 kg. At 100 °C it weighs about 0.95 kg."
+    },
+    {
+      "title": "Archimedes, in air",
+      "text": "The air a balloon pushes aside weighs more than the hot air that replaces it. That difference, about a quarter of a kilogram for every cubic metre of envelope at 100 °C, is the lift. A sport balloon of 2,000 to 3,000 cubic metres has about 500 to 800 kg of gross lift."
+    },
+    {
+      "title": "A budget of kilograms",
+      "text": "The lift has to carry the fabric, basket, burners, propane and people. The fabric is rated to roughly 120 °C, so heating harder is not a free fix. A cold morning helps, because cold air is denser."
+    },
+    {
+      "title": "Two controls, lots of delay",
+      "text": "The burner heats the air. The parachute valve at the top lets hot air out. The envelope is huge, so the balloon responds slowly, and pilots plan ahead."
+    },
+    {
+      "title": "Steering by layers",
+      "text": "A balloon moves exactly with the air around it, so it cannot steer. Wind often differs with height, so the pilot climbs or descends to find a layer going the right way. If no layer does, the balloon cannot go there."
+    },
+    {
+      "title": "Why every flight ends",
+      "text": "Heat leaks out all the time, so the burner must keep topping it up. When the propane runs low the flight is over. To land, the pilot lets it cool or vents, then adds a short burn near the ground to slow the sink."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Buoyancy",
+      "def": "The upward push of a fluid on an object in it, equal to the weight of the fluid it displaces."
+    },
+    {
+      "term": "Archimedes’ principle",
+      "def": "The rule that the buoyant force equals the weight of the displaced fluid. It works in air as in water."
+    },
+    {
+      "term": "Density",
+      "def": "Mass per volume. Air at 20 °C and sea level is about 1.2 kg per cubic metre."
+    },
+    {
+      "term": "Ideal gas law",
+      "def": "At constant pressure, a gas’s density falls as its absolute temperature rises."
+    },
+    {
+      "term": "Envelope",
+      "def": "The fabric bag of a balloon. Sport envelopes are typically 2,000 to 3,000 cubic metres."
+    },
+    {
+      "term": "Burner",
+      "def": "A propane burner, roughly 2 to 3 megawatts, that heats the air in the envelope."
+    },
+    {
+      "term": "Parachute valve",
+      "def": "A flap in the top of the envelope, opened by a rope, that lets hot air out so the balloon descends."
+    },
+    {
+      "term": "Wind layer",
+      "def": "A band of air blowing in its own direction. It is how a balloon pilot picks a direction."
+    },
+    {
+      "term": "Ballast",
+      "def": "Sand or water dropped from a gas balloon to climb."
+    },
+    {
+      "term": "Rozière balloon",
+      "def": "A balloon with a gas cell above and a hot-air cell below, first flown by Pilâtre de Rozier."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "hotairballoonclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

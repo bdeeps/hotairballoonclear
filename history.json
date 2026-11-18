@@ -1,0 +1,941 @@
+{
+  "title": "The history of the hot air balloon",
+  "tagline": "From a legend of lanterns to a flight round the world, in about 240 years of ballooning.",
+  "intro": "In June 1783 two brothers in a French town lit a fire under a huge paper-lined bag and watched it rise. Within six months people were flying in it. Ever since, balloons have chased height, distance and the wind.",
+  "eras": [
+    {
+      "id": "legend",
+      "name": "Lanterns and legends",
+      "from": -300,
+      "to": 1782,
+      "color": "#ffb547",
+      "summary": "Small lanterns lifted by fire, a few early experiments, and a gas that nobody yet knew how to use."
+    },
+    {
+      "id": "first",
+      "name": "The first balloons",
+      "from": 1783,
+      "to": 1799,
+      "color": "#ff7a59",
+      "summary": "Within months in 1783, a hot air balloon and a hydrogen balloon carried people into the sky."
+    },
+    {
+      "id": "gas",
+      "name": "Gas, war and spectacle",
+      "from": 1800,
+      "to": 1930,
+      "color": "#8ef0ff",
+      "summary": "Gas balloons crossed countries, carried mail out of a besieged city, and climbed higher than anyone could breathe."
+    },
+    {
+      "id": "sky",
+      "name": "Edge of space",
+      "from": 1931,
+      "to": 1959,
+      "color": "#c49bff",
+      "summary": "Sealed gondolas took people into the stratosphere, and some paid with their lives."
+    },
+    {
+      "id": "modern",
+      "name": "The propane age",
+      "from": 1960,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Nylon and propane made hot air ballooning a sport. Balloons also crossed oceans and circled the globe."
+    }
+  ],
+  "events": [
+    {
+      "year": 230,
+      "date": "c. 3rd century AD (legend)",
+      "era": "legend",
+      "art": "flame",
+      "title": "The Kongming lantern, a legend",
+      "who": "Zhuge Liang (181–234), called Kongming",
+      "where": "China",
+      "country": "China",
+      "text": "Tradition says the general Zhuge Liang used a sky lantern to send for help when enemy troops surrounded him, so the lanterns carry his name. The article we checked cites no source from his own time. Treat it as a legend, not a record.",
+      "why": "It shows how old the idea of a small lantern lifted by hot air may be.",
+      "box": "density",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1709,
+      "date": "8 August 1709 (accounts differ)",
+      "era": "legend",
+      "art": "scroll",
+      "title": "A small balloon in Lisbon",
+      "who": "Bartolomeu de Gusmão",
+      "where": "Casa da Índia, Lisbon",
+      "country": "Portugal",
+      "text": "Accounts say Gusmão showed the court a small balloon lifted by the heat of a flame. His large “passarola” airship was never flown in public. A later London report gives a different year, 1720, so the evidence is thin.",
+      "why": "It is among the earliest reported hot air balloon demonstrations, but it is poorly documented.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1766,
+      "date": "1766",
+      "era": "legend",
+      "art": "flask",
+      "title": "Cavendish describes “inflammable air”",
+      "who": "Henry Cavendish",
+      "where": "London",
+      "country": "England",
+      "text": "Cavendish told the Royal Society about a light gas he made by dissolving metals in acids. He called it “inflammable air”. We now call it hydrogen.",
+      "why": "A gas far lighter than air would soon lift the first gas balloons.",
+      "box": "gas",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "4 June 1783",
+      "era": "first",
+      "art": "flame",
+      "key": true,
+      "title": "The Montgolfier balloon rises over Annonay",
+      "who": "Joseph-Michel and Jacques-Étienne Montgolfier",
+      "where": "Annonay",
+      "country": "France",
+      "text": "The brothers launched an unmanned cloth-and-paper balloon about 10.5 m wide, heated by a straw fire. It rose roughly 1,000 m, stayed up about 10 minutes and came down more than 2 km away.",
+      "why": "This public launch began the age of flight.",
+      "box": "density",
+      "sources": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "27 August 1783",
+      "era": "first",
+      "art": "flask",
+      "title": "The first hydrogen balloon",
+      "who": "Jacques Charles and the Robert brothers",
+      "where": "Champ de Mars, Paris",
+      "country": "France",
+      "text": "An unmanned hydrogen balloon of about 35 cubic metres rose from Paris and drifted north. After about 45 minutes it came down near Gonesse, roughly 15 to 21 km away, where frightened villagers wrecked it.",
+      "why": "It showed that a light gas could lift a balloon, and began a rival to hot air.",
+      "box": "gas",
+      "sources": [
+        7,
+        6,
+        8
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "19 September 1783",
+      "era": "first",
+      "art": "person",
+      "title": "A sheep, a duck and a rooster at Versailles",
+      "who": "Montgolfier brothers",
+      "where": "Versailles",
+      "country": "France",
+      "text": "A sheep, a duck and a rooster rose in a Montgolfier balloon. They floated about 8 minutes and landed safely, about 3 km away.",
+      "why": "It showed that living things could survive the trip before any person went up.",
+      "sources": [
+        4,
+        6
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "21 November 1783",
+      "era": "first",
+      "art": "person",
+      "key": true,
+      "title": "The first people fly free",
+      "who": "Jean-François Pilâtre de Rozier and the Marquis d’Arlandes",
+      "where": "Château de la Muette, Paris",
+      "country": "France",
+      "text": "Two men flew across Paris in a Montgolfier hot air balloon. The flight took about 25 minutes and covered about 9 km. One account gives a top height of about 900 m.",
+      "why": "People left the ground in free flight for the first time.",
+      "box": "flight",
+      "sources": [
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "1 December 1783",
+      "era": "first",
+      "art": "earth",
+      "key": true,
+      "title": "Charles and Robert fly a hydrogen balloon",
+      "who": "Jacques Charles and Nicolas-Louis Robert",
+      "where": "Tuileries Garden, Paris",
+      "country": "France",
+      "text": "Their hydrogen balloon flew about 2 hours and about 36 km, to roughly 550 m, and had a valve and sand ballast. Robert then stepped out and Charles rose alone, higher than a mile.",
+      "why": "It set the plan for the gas balloon that lasted for generations.",
+      "box": "gas",
+      "sources": [
+        8,
+        10,
+        5,
+        6,
+        11
+      ]
+    },
+    {
+      "year": 1784,
+      "date": "4 June 1784",
+      "era": "first",
+      "art": "person",
+      "title": "Élisabeth Thible flies at Lyon",
+      "who": "Élisabeth Thible",
+      "where": "Lyon",
+      "country": "France",
+      "text": "With a man named Fleurant, Thible flew about 45 minutes and about 4 km in the hot air balloon La Gustave. She is described as the first woman on record to fly in an untethered hot air balloon.",
+      "why": "Women were in the air within a year of the first flight.",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1784,
+      "date": "15 September 1784",
+      "era": "first",
+      "art": "earth",
+      "title": "The first balloon flight in England",
+      "who": "Vincenzo Lunardi",
+      "where": "Artillery Ground, London",
+      "country": "England",
+      "text": "Lunardi rose with a dog, a cat and a pigeon. He touched down briefly at North Mymms to put the unwell cat out, then landed at Standon Green End in Hertfordshire.",
+      "why": "Ballooning reached Britain as a public spectacle.",
+      "sources": [
+        5,
+        13
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "7 January 1785",
+      "era": "first",
+      "art": "boat",
+      "key": true,
+      "title": "Across the English Channel",
+      "who": "Jean-Pierre Blanchard and John Jeffries",
+      "where": "Dover, England, to France",
+      "country": "England and France",
+      "text": "Blanchard and the American doctor John Jeffries took off from Dover and became the first to cross the Channel by air.",
+      "why": "The first crossing of the sea by air.",
+      "box": "gas",
+      "sources": [
+        14,
+        5
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "15 June 1785",
+      "era": "first",
+      "art": "flame",
+      "title": "The first aviation disaster",
+      "who": "Pilâtre de Rozier and Pierre-Jules Romain",
+      "where": "Boulogne-sur-Mer",
+      "country": "France",
+      "text": "Their balloon, which paired a hydrogen envelope with a small hot air one, caught fire about 30 minutes after launch from Boulogne. Both men died. A modern study points to a static spark, not the flame.",
+      "why": "It showed the danger of putting a flame near hydrogen.",
+      "box": "gas",
+      "sources": [
+        6,
+        9
+      ]
+    },
+    {
+      "year": 1793,
+      "date": "9 January 1793",
+      "era": "first",
+      "art": "earth",
+      "title": "The first balloon flight in North America",
+      "who": "Jean-Pierre Blanchard",
+      "where": "Philadelphia",
+      "country": "United States",
+      "text": "Blanchard rose from a prison yard in Philadelphia and landed in Gloucester County, New Jersey.",
+      "why": "Ballooning crossed the Atlantic as a show.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1819,
+      "date": "6 July 1819",
+      "era": "gas",
+      "art": "person",
+      "key": true,
+      "title": "Sophie Blanchard dies in Paris",
+      "who": "Sophie Blanchard",
+      "where": "Tivoli Gardens, Paris",
+      "country": "France",
+      "text": "Blanchard was widely described as the first woman to work as a professional balloonist, and Napoleon is said to have named her Aeronaut of the Official Festivals. During a fireworks show at Tivoli a rocket set her balloon alight. It came down over rooftops and she was thrown out and killed.",
+      "why": "Women were star aeronauts, and the risks were real.",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1836,
+      "date": "8 November 1836",
+      "era": "gas",
+      "art": "road",
+      "title": "London to Germany in one night",
+      "who": "Charles Green, Robert Holland and Thomas Monck-Mason",
+      "where": "London to Germany",
+      "country": "England and Germany",
+      "text": "In a gas balloon they flew about 608 km in 18 hours.",
+      "why": "It was the first crewed gas balloon flight over 600 km.",
+      "box": "layers",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1862,
+      "date": "5 September 1862",
+      "era": "gas",
+      "art": "mountain",
+      "key": true,
+      "title": "Too high to breathe",
+      "who": "James Glaisher and Henry Coxwell",
+      "where": "Wolverhampton, England",
+      "country": "England",
+      "text": "Glaisher passed out at about 8,800 m. Coxwell, with numb hands, managed to free the valve so they could descend. Later estimates of their top height run from over 9,500 m to 10,900 m.",
+      "why": "It tested what a human body could take in thin air.",
+      "sources": [
+        5,
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1870,
+      "date": "23 September 1870",
+      "era": "gas",
+      "art": "scroll",
+      "title": "Mail flies out of besieged Paris",
+      "who": "Pilots of about 66 balloons",
+      "where": "Paris",
+      "country": "France",
+      "text": "During the Siege of Paris the balloon Neptune flew the first mail out on 23 September. Around 66 balloon flights left the city. Five were captured and three went missing. Léon Gambetta flew out on 7 October.",
+      "why": "Balloons became the first large air mail and escape route.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "31 July 1901",
+      "era": "gas",
+      "art": "thermometer",
+      "title": "Berson and Süring reach about 10,800 m",
+      "who": "Arthur Berson and Reinhard Süring",
+      "where": "Berlin-Tempelhof",
+      "country": "Germany",
+      "text": "In the balloon Preussen they rose to about 10,800 m for a scientific flight.",
+      "why": "Scientific flights opened up the upper air.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "27 May 1931",
+      "era": "sky",
+      "art": "earth",
+      "key": true,
+      "title": "Into the stratosphere",
+      "who": "Auguste Piccard and Paul Kipfer",
+      "where": "Augsburg",
+      "country": "Germany",
+      "text": "In a sealed, pressurised gondola under a hydrogen balloon they reached 15,781 m, the first people in the stratosphere. They launched at Augsburg and landed near Gurgl, Austria. Some sources give Kipfer’s first name as Charles.",
+      "why": "A pressurised cabin made flight above the weather possible.",
+      "box": "gas",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "30 January 1934",
+      "era": "sky",
+      "art": "flame",
+      "title": "The Osoaviakhim-1 disaster",
+      "who": "Pavel Fedoseenko, Andrey Vasenko and Ilya Usyskin",
+      "where": "Kuntsevo airfield, near Moscow",
+      "country": "Soviet Union",
+      "text": "The hydrogen balloon reached about 22,000 m. It lost lift on the way down and fell, killing all three crew.",
+      "why": "It showed the price of record chasing.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "11 November 1935",
+      "era": "sky",
+      "art": "trophy",
+      "title": "Explorer II sets a record",
+      "who": "Albert W. Stevens and Orvil A. Anderson",
+      "where": "Stratobowl, South Dakota",
+      "country": "United States",
+      "text": "Their helium balloon reached 22,066 m and landed safely near White Lake, South Dakota. The record stood for nearly two decades.",
+      "why": "It was a long-lived altitude record.",
+      "box": "gas",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "22 October 1960",
+      "era": "modern",
+      "art": "burner",
+      "key": true,
+      "title": "Ed Yost flies the first modern hot air balloon",
+      "who": "Ed Yost",
+      "where": "Bruning, Nebraska",
+      "country": "United States",
+      "text": "Yost flew a hot air balloon with its own burner on board, the first free flight of the modern kind. Sources differ on how long it lasted, from 25 minutes to 1 hour 35 minutes.",
+      "why": "It began the modern sport of hot air ballooning.",
+      "box": "flight",
+      "sources": [
+        5,
+        25
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "4 May 1961",
+      "era": "sky",
+      "art": "mountain",
+      "title": "Strato-Lab V reaches 34,668 m",
+      "who": "Malcolm Ross and Victor Prather",
+      "where": "United States",
+      "country": "United States",
+      "text": "They reached 113,740 feet (34.67 km) in about 10 hours. Prather drowned during the helicopter transfer after landing.",
+      "why": "It is listed as the highest balloon flight on record.",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "25 March or 13 April 1963 (sources differ)",
+      "era": "modern",
+      "art": "boat",
+      "title": "A hot air balloon crosses the Channel",
+      "who": "Ed Yost and Don Piccard",
+      "where": "Rye to Dunkirk",
+      "country": "England and France",
+      "text": "The British Balloon Museum dates this first hot air balloon Channel crossing to 25 March. Wikipedia gives 13 April.",
+      "why": "Hot air ballooning showed it could cross water.",
+      "box": "flight",
+      "sources": [
+        5,
+        25
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1972",
+      "era": "modern",
+      "art": "trophy",
+      "title": "The first Albuquerque Balloon Fiesta",
+      "who": "Local balloonists and radio station KOB",
+      "where": "Albuquerque, New Mexico",
+      "country": "United States",
+      "text": "Thirteen balloons gathered in a shopping-centre car park for the radio station’s 50th birthday. By 2000 the fiesta had 1,019 registered balloons.",
+      "why": "It became one of the world’s largest balloon events.",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "11–17 August 1978",
+      "era": "modern",
+      "art": "boat",
+      "key": true,
+      "title": "Double Eagle II crosses the Atlantic",
+      "who": "Ben Abruzzo, Maxie Anderson and Larry Newman",
+      "where": "Presque Isle, Maine, to Miserey, France",
+      "country": "United States and France",
+      "text": "They flew for 137 hours 6 minutes and about 3,100 miles (about 4,990 km), and landed in a wheat field near Miserey, northwest of Paris.",
+      "why": "It was the first balloon crossing of the Atlantic.",
+      "box": "gas",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "15 January 1991",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "Across the Pacific in a hot air balloon",
+      "who": "Per Lindstrand and Richard Branson",
+      "where": "Japan to Canada",
+      "country": "Japan and Canada",
+      "text": "The FAI lists a hot air balloon distance record of 7,671.91 km, from Miyakonojo in Japan to Yellowknife in Canada, with Lindstrand as pilot and Branson as crew.",
+      "why": "It was the first Pacific crossing by hot air balloon.",
+      "box": "layers",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1–20 March 1999",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "Around the world without stopping",
+      "who": "Bertrand Piccard and Brian Jones",
+      "where": "Château-d’Oex, Switzerland",
+      "country": "Switzerland and Egypt",
+      "text": "Breitling Orbiter 3 flew for 19 days 21 hours 55 minutes, from the Swiss Alps to the Egyptian desert. Its track was about 40,800 km. Sources date the landing 20 or 21 March.",
+      "why": "The first nonstop balloon flight around the world.",
+      "box": "gas",
+      "sources": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "19 June – 4 July 2002",
+      "era": "modern",
+      "art": "earth",
+      "title": "Fossett flies round the world alone",
+      "who": "Steve Fossett",
+      "where": "Northam, Western Australia",
+      "country": "Australia",
+      "text": "Fossett covered about 33,195 km in his balloon Spirit of Freedom, with about 13 days 8 hours of flight time.",
+      "why": "The first solo balloon flight around the world.",
+      "sources": [
+        35,
+        5
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "26 November 2005",
+      "era": "modern",
+      "art": "mountain",
+      "key": true,
+      "title": "India’s hot air balloon height record",
+      "who": "Vijaypat Singhania",
+      "where": "Mumbai",
+      "country": "India",
+      "text": "Singhania reached 21,027 m in a Cameron Z-1600 hot air balloon. The FAI still lists it as the current record.",
+      "why": "It is the hot air balloon altitude record.",
+      "box": "flight",
+      "sources": [
+        36,
+        37,
+        5
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First people to fly free",
+      "value": "21 Nov 1783",
+      "who": "Pilâtre de Rozier and the Marquis d’Arlandes, France"
+    },
+    {
+      "label": "First crewed hydrogen flight",
+      "value": "1 Dec 1783",
+      "who": "Jacques Charles and Nicolas-Louis Robert, France"
+    },
+    {
+      "label": "First Channel crossing",
+      "value": "7 Jan 1785",
+      "who": "Jean-Pierre Blanchard and John Jeffries"
+    },
+    {
+      "label": "First woman on record in an untethered hot air balloon",
+      "value": "4 Jun 1784",
+      "who": "Élisabeth Thible, France"
+    },
+    {
+      "label": "First modern hot air balloon flight",
+      "value": "22 Oct 1960",
+      "who": "Ed Yost, United States"
+    },
+    {
+      "label": "First balloon Atlantic crossing",
+      "value": "Aug 1978",
+      "who": "Abruzzo, Anderson and Newman, United States"
+    },
+    {
+      "label": "First nonstop balloon flight round the world",
+      "value": "Mar 1999",
+      "who": "Bertrand Piccard and Brian Jones"
+    }
+  ],
+  "people": [
+    {
+      "name": "Joseph-Michel and Jacques-Étienne Montgolfier",
+      "life": "1740 – 1810 and 1745 – 1799",
+      "role": "Paper makers and balloon inventors",
+      "from": "Annonay, France",
+      "note": "They flew the first hot air balloon in public in 1783."
+    },
+    {
+      "name": "Jacques Charles",
+      "life": "1746 – 1823",
+      "role": "Scientist",
+      "from": "France",
+      "note": "He flew the first crewed hydrogen balloon, with a valve and ballast."
+    },
+    {
+      "name": "Jean-François Pilâtre de Rozier",
+      "life": "1754 – 1785",
+      "role": "Aeronaut",
+      "from": "France",
+      "note": "He made the first free flight and died in the first aviation disaster."
+    },
+    {
+      "name": "Élisabeth Thible",
+      "life": "1757 – 1785",
+      "role": "Aeronaut",
+      "from": "Lyon, France",
+      "note": "She flew in a hot air balloon in 1784, the first woman on record to do so untethered."
+    },
+    {
+      "name": "Sophie Blanchard",
+      "life": "1778 – 1819",
+      "role": "Professional balloonist",
+      "from": "France",
+      "note": "She is widely described as the first woman to work as a professional balloonist."
+    },
+    {
+      "name": "Zhuge Liang",
+      "life": "181 – 234",
+      "role": "Strategist, linked by legend to the sky lantern",
+      "from": "China",
+      "note": "The story that he used lanterns to signal is a legend with no dated source."
+    },
+    {
+      "name": "Auguste Piccard",
+      "life": "1884 – 1962",
+      "role": "Physicist and balloonist",
+      "from": "Switzerland",
+      "note": "He took people into the stratosphere in a sealed gondola in 1931."
+    },
+    {
+      "name": "Ed Yost",
+      "life": "1919 – 2007",
+      "role": "Balloon pioneer",
+      "from": "United States",
+      "note": "He flew the first modern hot air balloon in 1960."
+    },
+    {
+      "name": "Vijaypat Singhania",
+      "life": "1938 – 2026",
+      "role": "Businessman and aeronaut",
+      "from": "India",
+      "note": "He took a hot air balloon to 21,027 m in 2005."
+    },
+    {
+      "name": "Per Lindstrand",
+      "life": "born 1948",
+      "role": "Balloon builder and pilot",
+      "from": "Sweden",
+      "note": "He piloted the 1991 hot air balloon crossing of the Pacific with Richard Branson."
+    }
+  ],
+  "series": [
+    {
+      "id": "altitude",
+      "title": "How high people have flown in a balloon",
+      "unit": "metres",
+      "log": true,
+      "after": "sky",
+      "caption": "From a few hundred metres over Paris to the edge of space, in under 180 years.",
+      "points": [
+        {
+          "year": 1783,
+          "value": 900,
+          "label": "First free flight, about 900 m"
+        },
+        {
+          "year": 1862,
+          "value": 8800,
+          "label": "Glaisher blacks out at about 8,800 m"
+        },
+        {
+          "year": 1901,
+          "value": 10800,
+          "label": "Berson and Süring, about 10,800 m"
+        },
+        {
+          "year": 1931,
+          "value": 15781,
+          "label": "Piccard and Kipfer, 15,781 m"
+        },
+        {
+          "year": 1935,
+          "value": 22066,
+          "label": "Explorer II, 22,066 m"
+        },
+        {
+          "year": 1961,
+          "value": 34668,
+          "label": "Strato-Lab V, 34,668 m"
+        }
+      ]
+    },
+    {
+      "id": "distance",
+      "title": "How far a balloon has flown in one trip",
+      "unit": "kilometres",
+      "log": true,
+      "after": "modern",
+      "caption": "Round-the-world flights are left out, because they are track distances, not straight lines.",
+      "points": [
+        {
+          "year": 1783,
+          "value": 9,
+          "label": "First free flight, about 9 km"
+        },
+        {
+          "year": 1783,
+          "value": 36,
+          "label": "Charles and Robert, about 36 km"
+        },
+        {
+          "year": 1836,
+          "value": 608,
+          "label": "London to Germany, 608 km"
+        },
+        {
+          "year": 1978,
+          "value": 4989,
+          "label": "Double Eagle II, about 4,990 km"
+        },
+        {
+          "year": 1991,
+          "value": 7671.91,
+          "label": "Pacific, 7,671.91 km (FAI record)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The first Montgolfier balloon seen by the public, in 1783, carried nobody. It rose about 1,000 m.",
+    "The first passengers on the Versailles flight in 1783 were a sheep, a duck and a rooster.",
+    "The 1783 hydrogen balloon of Charles and Robert already had a valve and sand ballast.",
+    "Pilâtre de Rozier’s 1785 Channel balloon combined a hydrogen bag with a hot air bag.",
+    "Steve Fossett’s solo flight round the world in 2002 covered about 33,195 km."
+  ],
+  "sources": [
+    {
+      "title": "Kongming lantern",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kongming_lantern"
+    },
+    {
+      "title": "Bartolomeu de Gusmão",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o"
+    },
+    {
+      "title": "Bartolomeu Lourenço de Gusmão",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Bartolomeu-Lourenco-de-Gusmao"
+    },
+    {
+      "title": "Henry Cavendish",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Henry-Cavendish"
+    },
+    {
+      "title": "Joseph-Michel and Jacques-Étienne Montgolfier",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Montgolfier-brothers"
+    },
+    {
+      "title": "Ballooning history timeline",
+      "publisher": "British Balloon Museum and Library",
+      "url": "https://www.bbml.org.uk/timeline/"
+    },
+    {
+      "title": "Balloon flight",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/balloon-flight"
+    },
+    {
+      "title": "The First Gas Balloon Flight",
+      "publisher": "British Balloon Museum and Library",
+      "url": "https://www.bbml.org.uk/the-first-gas-balloon-flight/"
+    },
+    {
+      "title": "Inflation of First Hydrogen Balloon, by J. A. C. Charles",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/inflation-of-first-hydrogen-balloon-by-j-a-c-charles/nasm_A20000463000"
+    },
+    {
+      "title": "Jean-François Pilâtre de Rozier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier"
+    },
+    {
+      "title": "The Charles & Robert balloon, ‘Globe’, c 1783.",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co475486/the-charles-robert-balloon-globe-c-1783-ceramics-dishes-depictions-balloons-hot-air-balloons"
+    },
+    {
+      "title": "Jacques Charles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Charles"
+    },
+    {
+      "title": "Élisabeth Thible",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Thible"
+    },
+    {
+      "title": "Vincenzo Lunardi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vincenzo_Lunardi"
+    },
+    {
+      "title": "Jean-Pierre Blanchard",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jean-Pierre-Francois-Blanchard"
+    },
+    {
+      "title": "Sophie Blanchard",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/sophie-blanchard/"
+    },
+    {
+      "title": "Sophie Blanchard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Blanchard"
+    },
+    {
+      "title": "James Glaisher",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/James-Glaisher"
+    },
+    {
+      "title": "James Glaisher",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Glaisher"
+    },
+    {
+      "title": "Siege of Paris (1870–1871)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Paris_(1870%E2%80%931871)"
+    },
+    {
+      "title": "Arthur Berson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Berson"
+    },
+    {
+      "title": "Auguste Piccard",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Auguste-Piccard-Swiss-Belgian-physicist"
+    },
+    {
+      "title": "First person to reach the stratosphere",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/670770-first-person-to-reach-the-stratosphere"
+    },
+    {
+      "title": "Osoaviakhim-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osoaviakhim-1"
+    },
+    {
+      "title": "Explorer II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Explorer_II"
+    },
+    {
+      "title": "Ed Yost",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ed_Yost"
+    },
+    {
+      "title": "Malcolm Ross (balloonist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_Ross_(balloonist)"
+    },
+    {
+      "title": "History",
+      "publisher": "Albuquerque International Balloon Fiesta",
+      "url": "https://balloonfiesta.com/about/history"
+    },
+    {
+      "title": "Gondola, Double Eagle II",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/gondola-double-eagle-2/nasm_A19790532000"
+    },
+    {
+      "title": "Double Eagle II",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Double-Eagle-II"
+    },
+    {
+      "title": "Per Axel Lindstrand (GBR) (275)",
+      "publisher": "World Air Sports Federation (FAI)",
+      "url": "https://www-2025.fai.org/record/275"
+    },
+    {
+      "title": "Per Lindstrand",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Per-Lindstrand"
+    },
+    {
+      "title": "Bertrand Piccard",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Bertrand-Piccard"
+    },
+    {
+      "title": "Breitling Orbiter 3 at National Air and Space Museum; Gondola in \"Milestones of Flight\" Gallery",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/newsroom/press-releases/breitling-orbiter-3-national-air-and-space-museum-gondola-milestones-flight"
+    },
+    {
+      "title": "Breitling Orbiter 3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Breitling_Orbiter_3"
+    },
+    {
+      "title": "Steve Fossett",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Steve-Fossett"
+    },
+    {
+      "title": "Vijaypat Singhania (IND) (12267)",
+      "publisher": "World Air Sports Federation (FAI)",
+      "url": "https://www-2025.fai.org/record/12267"
+    },
+    {
+      "title": "Highest flight by a hot air balloon",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/highest-flight-by-a-hot-air-balloon"
+    }
+  ]
+}
